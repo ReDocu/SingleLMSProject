@@ -1,14 +1,17 @@
 # SingleLMSProject
 
-![image](./md_file/mainImage.png)
-
+![image](./md_file/mainImages.png)
 # 사용 툴
+- Unity 6000.2.10f1
 - ComfyUI [※ 프로그램에 사용되는 이미지는 AI로 생성한 이미지입니다]
 
 
 # 사용 에셋
 - [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 - [GUI Pro - Survival Clean](https://assetstore.unity.com/packages/p/gui-pro-survival-clean-194741)
+
+# 폰트 
+- 서울 폰트
 
 
 # 구현 과정에서 생기는 유의사항.
